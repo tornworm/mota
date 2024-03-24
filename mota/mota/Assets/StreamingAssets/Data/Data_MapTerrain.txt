@@ -1,0 +1,12 @@
+﻿ID	Word	Name	Terrain_0	Terrain_1	Terrain_2	Terrain_3	Terrain_4	Terrain_5	Terrain_6	Terrain_7	Terrain_8	Terrain_9
+int	int	string	string	string	string	string	string	string	string	string	string	string
+1	0	地图1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1	1,1,1,1,1,1,1,1,1,1
+2	0	地图2										
+3	0	地图3										
+4	0	地图4										
+5	0	地图5										
+6	0	地图6										
+7	0	地图7										
+8	0	地图8										
+9	0	地图9										
+10	0	地图10										

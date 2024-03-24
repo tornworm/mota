@@ -1,0 +1,12 @@
+﻿ID	Word	Group	Name	TexturePrafab
+int	int	int	string	string
+1	0	1	木头地块	terrain_001
+2	0	2	木头地块(陷阱）	terrain_001
+3	0	3	木头地块(事件1）	terrain_001
+4	0		地图4	
+5	0		地图5	
+6	0		地图6	
+7	0		地图7	
+8	0		地图8	
+9	0		地图9	
+10	0		地图10	
