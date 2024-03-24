@@ -33,3 +33,10 @@ DarkPark/[Pp]rojectSettings/
 *.pdb
 *.mdb
 *.EditorUserBuildSettings
+*.lnk
+/mota/mota/Library
+/mota/mota/ProjectSettings
+mota/mota/.vsconfig
+mota/mota/Packages/manifest.json
+mota/mota/Packages/packages-lock.json
+mota/mota/UserSettings/Layouts/default-2021.dwlt
