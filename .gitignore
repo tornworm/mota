@@ -1,0 +1,35 @@
+# 编译和构建输出目录
+DarkPark/Build/
+DarkPark/[Bb]uilds/
+DarkPark/[Ll]ibrary/
+
+# 库文件
+DarkPark/[Oo]bj/
+DarkPark/[Tt]emp/
+DarkPark/[Vv]endor/
+
+# Unity 临时文件
+DarkPark/[Tt]emp/
+DarkPark/[Uu]nityGenerated/
+
+# 其他 Unity 临时文件
+DarkPark/Assets/AssetStoreTools*
+
+# 日志和报错
+DarkPark/[Ll]ogs/
+*.stacktrace
+*.log
+*.crash
+
+# Unity 项目设置和元数据
+DarkPark/[Pp]rojectSettings/
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.vs
+*.vscode/
+*.idea/
+*.pdb
+*.mdb
+*.EditorUserBuildSettings
